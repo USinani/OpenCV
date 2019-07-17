@@ -3,3 +3,5 @@
 
 #Ignore all .ini files
 *.ini
+
+#Include any other extensions here
