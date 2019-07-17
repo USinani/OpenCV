@@ -1,0 +1,5 @@
+#Ignore contents of directory .vscode
+.vscode/
+
+#Ignore all .ini files
+*.ini
